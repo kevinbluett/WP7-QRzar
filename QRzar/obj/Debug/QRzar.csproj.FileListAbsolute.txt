@@ -1,0 +1,13 @@
+C:\Users\Eoin\documents\visual studio 2010\Projects\QRzar\QRzar\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Eoin\documents\visual studio 2010\Projects\QRzar\QRzar\obj\Debug\App.g.i.cs
+C:\Users\Eoin\documents\visual studio 2010\Projects\QRzar\QRzar\obj\Debug\MainPage.g.i.cs
+C:\Users\Eoin\documents\visual studio 2010\Projects\QRzar\QRzar\obj\Debug\QRzar.g.resources
+C:\Users\Eoin\documents\visual studio 2010\Projects\QRzar\QRzar\Bin\Debug\ApplicationIcon.png
+C:\Users\Eoin\documents\visual studio 2010\Projects\QRzar\QRzar\Bin\Debug\Background.png
+C:\Users\Eoin\documents\visual studio 2010\Projects\QRzar\QRzar\Bin\Debug\QRzar.dll
+C:\Users\Eoin\documents\visual studio 2010\Projects\QRzar\QRzar\Bin\Debug\QRzar.pdb
+C:\Users\Eoin\documents\visual studio 2010\Projects\QRzar\QRzar\Bin\Debug\AppManifest.xaml
+C:\Users\Eoin\documents\visual studio 2010\Projects\QRzar\QRzar\Bin\Debug\QRzar.xap
+C:\Users\Eoin\documents\visual studio 2010\Projects\QRzar\QRzar\obj\Debug\QRzar.dll
+C:\Users\Eoin\documents\visual studio 2010\Projects\QRzar\QRzar\obj\Debug\QRzar.pdb
+C:\Users\Eoin\documents\visual studio 2010\Projects\QRzar\QRzar\obj\Debug\XapCacheFile.xml

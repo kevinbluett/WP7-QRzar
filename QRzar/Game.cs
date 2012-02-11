@@ -68,21 +68,4 @@ namespace QRzar
 
     }
 
-    [DataContract]
-    public class Player
-    {
-        [DataMember]
-        public int ID { get; set; }
-        [DataMember]
-        public String name { get; set; }
-        [DataMember]
-        public int kills { get; set; }
-
-
-        void Update()
-        {
-
-        }
-
-    }
 }
